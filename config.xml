@@ -15,7 +15,7 @@
         Yourname
     </author>
     
-    <preference name="phonegap-version" value="2.9.0" />
+    <preference name="phonegap-version" value="2.7.0" />
     
     <gap:platforms>
         <gap:platform name="android" minVersion="2.1"/>
